@@ -2,12 +2,28 @@
   "pages": [
     "pages/index/main",
     "pages/logs/main",
-    "pages/counter/main"
+    "pages/counter/main",
+    "pages/equipmentDetail/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
-  }
+  },
+"tabBar": {
+  "color": "#8a8a8a",
+  "selectedColor": "#1296db",
+  "list": [{
+    "pagePath": "pages/index/main",
+    "text": "首页",
+    "iconPath": "static/img/bar1.png",
+    "selectedIconPath": "static/img/bar2.png"
+  }, {
+    "pagePath": "pages/logs/main",
+    "text": "11",
+    "iconPath": "static/img/bar1.png",
+    "selectedIconPath":"static/img/bar2.png"
+  }]
+}
 }

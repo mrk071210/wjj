@@ -1,28 +1,42 @@
 {
-  "id": 1,
-  "'equipmentName'": "小松",
-  "equipmentImage": "../../img/eq1.jpg",
+  "id": "1",
+  "equipmentName": "小松 PC200-8 挖掘机",
+  "equipmentImage": "/static/img/eq1.jpg",
   "equipmentHour": "122",
-  "equipmentDesc": "情况良好"
+  "toolList": "",
+  "equipmentDesc": "情况良好",
+  "equipmantCapacity": "0.8m³",
+  "workList": "土石方开挖清运、沟开挖、土石方室内外回填、路面平整",
+  "payType": "小时、包月"
 }
 {
-  "id": 2,
-  "equipmentName": "日立",
-  "equipmentImage": "../../img/eq2.jpg",
+  "id": "2",
+  "equipmentName": "卡特彼勒 336D2 挖掘机",
+  "equipmentImage": "/static/img/eq2.png",
   "equipmentHour": "42",
-  "equipmentDesc": "情况良好"
+  "equipmentDesc": "情况良好",
+  "equipmantCapacity": "1.88m³",
+  "workList": "土石方开挖清运、沟开挖、土石方室内外回填、路面平整",
+  "payType": "小时、包月"
+  
 }
 {
-  "id": 3,
-  "equipmentName": "利勃海尔",
-  "equipmentImage": "../../img/eq3.jpg",
+  "id": "3",
+  "equipmentName": "沃尔沃 EC380DL 挖掘机",
+  "equipmentImage": "/static/img/eq3.jpg",
   "equipmentHour": "222",
-  "equipmentDesc": "情况良好"
+  "equipmentDesc": "情况良好",
+  "equipmantCapacity": "1.35-3m³",
+  "workList": "土石方开挖清运、沟开挖、土石方室内外回填、路面平整",
+  "payType": "小时、包月"
 }
 {
   "id": "4",
-  "equipmentName": "小松",
-  "equipmentImage": "../../img/eq4.jpg",
+  "equipmentName": "现代 225LVS 挖掘机",
+  "equipmentImage": "/static/img/eq4.jpg",
   "equipmentHour": "122",
-  "equipmentDesc": "情况良好"
+  "equipmentDesc": "情况良好",
+  "equipmantCapacity": "1.05m³",
+  "workList": "土石方开挖清运、沟开挖、土石方室内外回填、路面平整",
+  "payType": "小时、包月"
 }

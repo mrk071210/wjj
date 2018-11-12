@@ -6,6 +6,7 @@ export default {
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
     wx.cloud.init({
+      traceUser: true,
       env: 'wjj-657aa0'
     })
     console.log('app created and cache logs by setStorageSync')
@@ -21,6 +22,8 @@ export default {
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
+  font-size: 14px;
+  padding: 20rpx;
 }
 /* this rule will be remove */
 * {
