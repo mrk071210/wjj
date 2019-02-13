@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-   这里面展示
+   这里面
   </div>
 </template>
 
